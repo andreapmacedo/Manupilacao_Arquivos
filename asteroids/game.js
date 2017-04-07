@@ -1,5 +1,5 @@
 // Canvas Asteroids
-//
+// mode na linha 2
 // Copyright (c) 2010 Doug McInnes
 //
 

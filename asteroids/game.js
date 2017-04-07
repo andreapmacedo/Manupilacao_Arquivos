@@ -1,5 +1,5 @@
-// Canvas Asteroids mod terminal_l
-// mode na linha 2
+// Canvas Asteroids
+
 // Copyright (c) 2010 Doug McInnes
 //
 

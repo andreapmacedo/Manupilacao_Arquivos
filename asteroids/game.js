@@ -1,4 +1,4 @@
-// Canvas Asteroids
+// Canvas Asteroids mod terminal_l
 //
 // Copyright (c) 2010 Doug McInnes
 //
